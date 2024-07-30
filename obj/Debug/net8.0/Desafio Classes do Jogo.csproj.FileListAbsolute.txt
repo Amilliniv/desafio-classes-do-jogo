@@ -1,0 +1,14 @@
+C:\Projetos\Desafio Classes do Jogo\obj\Debug\net8.0\Desafio Classes do Jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Desafio Classes do Jogo\obj\Debug\net8.0\Desafio Classes do Jogo.AssemblyInfoInputs.cache
+C:\Projetos\Desafio Classes do Jogo\obj\Debug\net8.0\Desafio Classes do Jogo.AssemblyInfo.cs
+C:\Projetos\Desafio Classes do Jogo\obj\Debug\net8.0\Desafio Classes do Jogo.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafio Classes do Jogo\bin\Debug\net8.0\Desafio Classes do Jogo.exe
+C:\Projetos\Desafio Classes do Jogo\bin\Debug\net8.0\Desafio Classes do Jogo.deps.json
+C:\Projetos\Desafio Classes do Jogo\bin\Debug\net8.0\Desafio Classes do Jogo.runtimeconfig.json
+C:\Projetos\Desafio Classes do Jogo\bin\Debug\net8.0\Desafio Classes do Jogo.dll
+C:\Projetos\Desafio Classes do Jogo\bin\Debug\net8.0\Desafio Classes do Jogo.pdb
+C:\Projetos\Desafio Classes do Jogo\obj\Debug\net8.0\Desafio Classes do Jogo.dll
+C:\Projetos\Desafio Classes do Jogo\obj\Debug\net8.0\refint\Desafio Classes do Jogo.dll
+C:\Projetos\Desafio Classes do Jogo\obj\Debug\net8.0\Desafio Classes do Jogo.pdb
+C:\Projetos\Desafio Classes do Jogo\obj\Debug\net8.0\Desafio Classes do Jogo.genruntimeconfig.cache
+C:\Projetos\Desafio Classes do Jogo\obj\Debug\net8.0\ref\Desafio Classes do Jogo.dll
